@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src" />
+	<classpathentry kind="lib" path="lib/activation.jar" />
+	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar" />
+	<classpathentry kind="lib" path="lib/commons-collections.jar" />
+	<classpathentry kind="lib" path="lib/commons-fileupload-1.2.1.jar" />
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.0.1.jar" />
+	<classpathentry kind="lib" path="lib/commons-io-1.2.jar" />
+	<classpathentry kind="lib" path="lib/commons-io-1.3.2.jar" />
+	<classpathentry kind="lib" path="lib/fckeditor-java-core-2.4.1.jar" />
+	<classpathentry kind="lib" path="lib/htmlparser.jar" />
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.6.4.jar" />
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.6.4.jar" />
+	<classpathentry kind="lib" path="lib/java-core-2.4.1.jar" />
+	<classpathentry kind="lib" path="lib/jCharts-0.7.5.jar" />
+	<classpathentry kind="lib" path="lib/jsoup-1.4.1.jar" />
+	<classpathentry kind="lib" path="lib/jxl.jar" />
+	<classpathentry kind="lib" path="lib/mail.jar" />
+	<classpathentry kind="lib"
+		path="lib/mysql-connector-java-3.1.12-bin.jar" />
+	<classpathentry kind="lib" path="lib/ognl-2.6.9.jar" />
+	<classpathentry kind="lib" path="lib/org.json.jar" />
+	<classpathentry kind="lib" path="lib/servlet-api.jar" />
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.2.jar" />
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.5.2.jar" />
+	<classpathentry kind="lib" path="lib/sqljdbc.jar" />
+	<classpathentry kind="lib" path="lib/ssh.jar" />
+	<classpathentry kind="lib" path="lib/commons-dbcp-1.1.jar" />
+	<classpathentry kind="lib" path="lib/commons-pool-1.5.5.jar" />
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER" />
+	<classpathentry kind="output" path="bin" />
+</classpath>
